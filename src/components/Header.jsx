@@ -31,7 +31,7 @@ function Header() {
               Home
             </li>
             <li
-              className={`cursor-pointer py-3 text-sm font-semibold text-black  border-b-[3px] border-transparent ${
+              className={`cursor-pointer py-3 text-sm font-semibold  text-black  border-b-[3px] border-transparent ${
                 pathMatchRoute("/offers") && "border-b-red-500"
               } `}
               onClick={() => navigate("/offers")}
@@ -39,7 +39,7 @@ function Header() {
               Offers
             </li>
             <li
-              className={`cursor-pointer py-3 text-sm font-semibold text-black  border-b-[3px] border-transparent ${
+              className={`cursor-pointer py-3 text-sm font-semibold  text-black  border-b-[3px] border-transparent ${
                 pathMatchRoute("/sign-in") && "border-b-red-500"
               } `}
               onClick={() => navigate("/sign-in")}
