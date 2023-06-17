@@ -26,7 +26,7 @@ function OAuth() {
           email: user.email,
         });
       }
-      toast.success("Sign Up Successful!");
+      toast.success("Sign In Successful!");
       navigate("/");
     } catch (error) {
       toast.error("Could not authorize with Google!");
