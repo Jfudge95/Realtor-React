@@ -423,7 +423,7 @@ function CreateListing() {
         <div className="mb-6">
           <p className="text-lg font-semibold">Images</p>
           <p className="text-gray-600">
-            The first image will be the cover (max 6)
+            The first image will be the cover (max 6 and 1 MB)
           </p>
           <input
             type="file"
