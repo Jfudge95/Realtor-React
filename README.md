@@ -1,4 +1,4 @@
-# Realtor Clone
+# Realtor
 
 I have developed a Realtor (Real estate) website using React.js 18, Firebase 9, Tailwind CSS 3, and React Router 6. Throughout this project, I have gained valuable knowledge and skills in React.js, Firebase, Tailwind CSS, and various other modern web development technologies.
 
