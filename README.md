@@ -16,15 +16,11 @@ I have developed a Realtor (Real estate) website using React.js 18, Firebase 9, 
 - **Image Slider:** I enhanced the listing pages with a super amazing image slider using Swiper.js, allowing users to view property images effortlessly.
 - **Customized Notifications:** I utilized the react-toastify package to create beautiful and customized notifications, providing informative feedback to users.
 - **Loading Effects:** I implemented a beautiful spinner component for pages requiring loading effects, ensuring a polished user interface.
-- **Reusable Components:** Throughout the development process, I created reusable components such as listing cards for efficient code organization and enhanced reusability.
-- **React Functional Components:** I leveraged the power of functional components for their reusability and ease of development, adhering to modern React.js best practices.
-- **File and Folder Structure:** I followed best practices for organizing files and folders in a React project, ensuring a well-structured and maintainable codebase.
 - **React Events:** I utilized important React events such as onChange and onSubmit event listeners to capture and respond to user interactions effectively.
 - **React Hooks:** By utilizing useEffect and useState hooks, I managed component states and fetched data from Firestore database, enhancing the functionality of the application.
 - **React Router:** I implemented routing using React Router version 6, including routes, useParams, and useNavigate hooks, enabling seamless navigation between different pages.
 - **Private Routes:** I created private routes and custom hooks to protect important pages such as the user profile page, ensuring authorized access to sensitive information.
 - **Tailwind CSS:** I mastered Tailwind CSS version 3 and used it to style the project, including the ability to add custom classes and achieve a visually appealing UI.
-- **Deployment:** I successfully deployed the website to Vercel, making it easily accessible and shareable with others, as well as showcasing it in my portfolio.
 
 ## Key Takeaways
 
