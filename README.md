@@ -36,5 +36,3 @@ By working on this project, I have achieved the following:
 - Explored techniques for protecting sensitive pages and implementing private routes, ensuring data security and authorized access.
 - Gained insights into the latest versions of React.js, Firebase, Tailwind CSS, and React Router, keeping up with industry trends and best practices.
 
-By the end of this project, I have developed a thorough understanding of modern web development practices and acquired the capability to build various types of applications using React.js, Firebase, and Tailwind CSS.
-
