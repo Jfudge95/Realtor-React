@@ -24,7 +24,6 @@ Welcome to Realtor a real estate website I developed using React.js, Firebase, T
 
 ## Key Takeaways
 
-By working on this project, I have achieved the following:
 
 - Gained proficiency in React.js, Firebase, Tailwind CSS, and other in-demand web development technologies.
 - Learned how to build a professional real estate website, starting with project setup to deployment.
