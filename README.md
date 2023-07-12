@@ -8,7 +8,6 @@ Welcome to Realtor a real estate website I developed using React.js, Firebase, T
 - **Responsive Design:** The website I built is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
 - **Listing Cards:** I designed visually appealing listing cards to display essential information about each property, attracting potential buyers or renters.
 - **Listing Pages:** Detailed listing pages provide comprehensive information about each property, including maps and image sliders, to enhance the user experience.
-- **CRUD Operations:** I implemented Create, Read, Update, and Delete operations using Firebase Firestore database, allowing seamless management of property listings.
 - **Firebase Authentication:** Utilizing Firebase auth, I integrated complete authentication functionality, including user sign-up, sign-in, and forgot password.
 - **Google OAuth:** I incorporated Google OAuth to enable users to sign in using their Google accounts, ensuring a seamless authentication process.
 - **Map Integration:** By utilizing the Leaflet package and Google Geolocation API, I added an interactive map displaying property locations.
