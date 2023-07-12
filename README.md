@@ -4,7 +4,6 @@ Welcome to Realtor a real estate website I developed using React.js, Firebase, T
 
 ## Features
 
-- **Stunning Listing Section:** I created an impressive listing section to showcase real estate properties in a visually appealing manner.
 - **Custom Categories:** Implementing custom categories allows users to easily navigate and filter listings based on their preferences.
 - **Responsive Design:** The website I built is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
 - **Listing Cards:** I designed visually appealing listing cards to display essential information about each property, attracting potential buyers or renters.
@@ -16,9 +15,6 @@ Welcome to Realtor a real estate website I developed using React.js, Firebase, T
 - **Image Slider:** I enhanced the listing pages with a super amazing image slider using Swiper.js, allowing users to view property images effortlessly.
 - **Customized Notifications:** I utilized the react-toastify package to create beautiful and customized notifications, providing informative feedback to users.
 - **Loading Effects:** I implemented a beautiful spinner component for pages requiring loading effects, ensuring a polished user interface.
-- **React Events:** I utilized important React events such as onChange and onSubmit event listeners to capture and respond to user interactions effectively.
-- **React Hooks:** By utilizing useEffect and useState hooks, I managed component states and fetched data from Firestore database, enhancing the functionality of the application.
-- **React Router:** I implemented routing using React Router version 6, including routes, useParams, and useNavigate hooks, enabling seamless navigation between different pages.
 - **Private Routes:** I created private routes and custom hooks to protect important pages such as the user profile page, ensuring authorized access to sensitive information.
 - **Tailwind CSS:** I mastered Tailwind CSS version 3 and used it to style the project, including the ability to add custom classes and achieve a visually appealing UI.
 
