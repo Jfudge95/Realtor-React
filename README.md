@@ -1,6 +1,6 @@
 # Realtor
 
-Welcome to Realtor a real estate website I developed using React.js 18, Firebase 9, Tailwind CSS 3, and React Router 6. Throughout building this website, I have gained valuable knowledge and skills in React.js, Firebase, Tailwind CSS, and various other modern web development technologies.
+Welcome to Realtor a real estate website I developed using React.js, Firebase, Tailwind CSS, and React Router. 
 
 ## Features
 
