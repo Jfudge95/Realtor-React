@@ -2,6 +2,9 @@
 
 Welcome to Realtor a real estate website I developed using React.js, Firebase, Tailwind CSS, and React Router. 
 
+## Screenshot 
+![Screenshot of home page](src/assets/Demo/HomePage.png)
+
 ## Features
 
 - **Custom Categories:** Implementing custom categories allows users to easily navigate and filter listings based on their preferences.
